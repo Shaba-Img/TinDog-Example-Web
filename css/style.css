@@ -130,3 +130,10 @@ footer {
   color: rgb(241, 0, 0);
   padding: 20px;
 }
+
+}.header {
+  padding: 20px;
+  justify-content: center;
+  display: flex;
+}
+

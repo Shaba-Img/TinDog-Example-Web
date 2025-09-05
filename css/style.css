@@ -67,7 +67,7 @@
 
 .col-md-5 {
   padding: 20px;
-  border: solid 1px #000000;
+  border: solid 1px #a51fff;
   border-radius: 10px;
 }
 
@@ -94,7 +94,7 @@
 .rounded-3 {
   border: solid 1px #000000;
   border-radius: 10px;
-  border-color: #cf5e6f;
+  border-color: #a51fff;
 }
 
 footer {
@@ -104,11 +104,29 @@ footer {
   text-align: center;
 }
 
-.big-heading {
+.big-heading
+  
+{
   font-family: "Playwrite AU QLD", cursive;
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
   font-size: 3.5rem;
 
+}
+
+.row {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  gap: 0px;
+  padding-bottom: 30px;
+}
+
+.testimonial-container1 {
+  background-color: rgb(250, 250, 250);
+  color: rgb(241, 0, 0);
+  padding: 20px;
 }

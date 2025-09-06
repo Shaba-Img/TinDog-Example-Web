@@ -122,18 +122,15 @@ footer {
   flex-direction: row;
   text-align: center;
   gap: 0px;
-  padding-bottom: 30px;
 }
 
 .testimonial-container1 {
   background-color: rgb(250, 250, 250);
   color: rgb(241, 0, 0);
   padding: 20px;
-}
-
+  
 }.header {
   padding: 20px;
   justify-content: center;
   display: flex;
 }
-
